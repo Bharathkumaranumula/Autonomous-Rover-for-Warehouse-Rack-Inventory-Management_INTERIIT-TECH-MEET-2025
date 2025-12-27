@@ -11,7 +11,7 @@ The system aims to replace slow, unsafe, and error-prone manual inventory audits
 ## My Contribution
 I was responsible for the **entire hardware design and implementation** of this project. My role covered the complete hardware lifecycle, including mechanical design, structural layout, drive system selection, Z-axis scissor lift design, power system architecture, safety mechanisms, and hardware integration.
 
-I led the hardware development from problem understanding and calculations through CAD design, fabrication, assembly, and testing, ensuring the system met competition constraints and performed reliably during integrated operation.
+I along with my hardware team led the hardware development from problem understanding and calculations through CAD design, fabrication, assembly, and testing, ensuring the system met competition constraints and performed reliably during integrated operation.
 
 ---
 
